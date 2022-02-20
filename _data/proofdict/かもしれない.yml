@@ -1,0 +1,10 @@
+id: 01FWA6S9S3VQGRTY5CPHYG5W61
+description: '"かもしれない"のテスト用'
+expected: かもしれない
+patterns:
+  - かも知れない
+allows: []
+specs:
+  - from: かも知れない
+    to: かもしれない
+tags: []
